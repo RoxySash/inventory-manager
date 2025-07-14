@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inventory Manager</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Inventory Manager</h1>
+
+    <div class="form">
+      <input type="text" id="productName" placeholder="Product Name" />
+      <input type="number" id="productQty" placeholder="Quantity" />
+      <button onclick="handleAdd()">Add Product</button>
+      <button onclick="handleRemove()">Remove Product</button>
+    </div>
+
+    <h2>Inventory List</h2>
+    <ul id="inventoryList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
