@@ -19,7 +19,7 @@ Perfect for managing small product lists with a modern and minimalist vibe.
 
 ## 📸 Preview
 
-![Screenshot of Inventory App](your-screenshot-link-here)
+![Screenshot of Inventory App](./assets/Inventory%20Management%20System%20Screenshot.png)
 
 ---
 
